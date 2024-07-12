@@ -1,0 +1,42 @@
+[
+    {
+        "password": "admin1",
+        "firstname": "Sakdar",
+        "role": "Admin",
+        "user_id": "4611358895",
+        "tel": "0980755735",
+        "email": "sakdar.s@psu.ac.th",
+        "username": "admin1",
+        "lastname": "Sukkwan"
+    },
+    {
+        "password": "admin2",
+        "firstname": "Charinrat",
+        "role": "Admin",
+        "user_id": "3836184756",
+        "tel": "0654836755",
+        "email": "charinrat.s@psu.ac.th",
+        "username": "admin2",
+        "lastname": "Suwannarat"
+    },
+    {
+        "password": "emp1",
+        "firstname": "Naritsara",
+        "role": "Employee",
+        "user_id": "1721717498",
+        "tel": "0743886583",
+        "email": "naritsara.s@psu.ac.th",
+        "username": "emp1",
+        "lastname": "Singda"
+    },
+    {
+        "password": "emp2",
+        "firstname": "Buachompuu",
+        "role": "Employee",
+        "user_id": "2523845113",
+        "tel": "0984563215",
+        "email": "buachompuu.r@psu.ac.th",
+        "username": "emp2",
+        "lastname": "Rattana"
+    }
+]
